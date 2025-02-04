@@ -30,7 +30,7 @@ This project implements **customer segmentation** using **Principal Component An
 1. Clone the repository:
    ```bash
    git clone https://github.com/SagarMaddela/3D-classification-using-Gaussian-Mixture-Models.git
-   cd 3D_GMM_Clustering
+   cd 3D-classification-using-Gaussian-Mixture-Models
    ```
 2. Install dependencies:
    ```bash
